@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherBuddy</string>
+    <string name="error_title">Oops, sorry!</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="error_button_text_ok">OK</string>
+    <string name="error_network_unavalable">Network is unavalable!</string>
+</resources>
