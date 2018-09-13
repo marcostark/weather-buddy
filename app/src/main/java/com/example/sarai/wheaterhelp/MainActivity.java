@@ -77,8 +77,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void getForecast() {
         String apiKey = "a87f44afcdf352c5d169a52a50924988";
-        double latitude = 37.8267;
-        double longitude = -122.423;
+        double latitude = -7.9821707;
+        double longitude = -38.2915465;
         String apiUrl = "https://api.forecast.io/forecast/" +apiKey + "/" + latitude + "," + longitude + "?units=si&exclude=flags" ;
 
 

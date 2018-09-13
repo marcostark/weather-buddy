@@ -7,7 +7,7 @@ import java.util.Random;
 /**
  * Created by sarai on 01/09/16.
  */
-public class Colors {
+public class    Colors {
     private String [] cores = {
             "#39add1", // light blue
             "#3079ab", // dark blue
